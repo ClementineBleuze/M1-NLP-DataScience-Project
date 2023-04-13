@@ -1,0 +1,25 @@
+
+Amanda Elizabeth Chessell CBE FREng is a computer scientist and a Distinguished Engineer at IBM.[1] She has been awarded the title of IBM Master Inventor. She is also a Member of the IBM Academy of Technology.
+Outside IBM, Chessell is the first woman to be awarded the Silver Medal of the Royal Academy of Engineering.[2] In 2002 she was elected a Fellow of the Royal Academy of Engineering.[3]
+Chessell is a visiting professor[4] at the University of Sheffield[5] and at the Surrey Centre for the Digital Economy (CoDE)[6] at the University of Surrey.
+Mandy Chessell joined IBM in 1987.[7] She is based at IBM's Hursley laboratory located near Winchester in Hampshire, UK.[8]
+Her early work focused on distributed transaction processing, adding features to products such as CICS, Encina, Component Broker and WebSphere Application Server.  She has also work on event management, business process modelling and outside-in design (OID).
+Then she focused on developing model-driven tools to simplify the analysis and design of large systems and then to automate their development.  This work covers the development of user interfaces, services, information integration technology in the field of Master Data Management.
+Her work today is focused on data lake architectures, metadata management and information governance.  She is the Chair of the ODPi Technical Steering Committee (TSC)[9] and leader of the ODPi Egeria Project[10]
+Chessell frequently lectures on topics related to Computer Science and, in particular, innovation. Such lectures take place at universities such as Queen Mary University of London.[11]
+She was also one of the 30 women identified in the  BCS Women in IT Campaign in 2014.[12] Who were then featured in the e-book "Women in IT: Inspiring the next generation" produced by the BCS, The Chartered Institute for IT.[13]
+In 2000, she was among the first group of MIT Technology Review magazine's TR100.
+In 2001, she won the Royal Academy of Engineering Silver Medal for the invention and engineering of Reusable Software Component Architecture.[14]
+In 2002, she was elected a Fellow of The Royal Academy of Engineering.[15]
+In 2004, Chessell won the British Computer Society nomination for the Women's Engineering Society "Karen Burt" award.[16]
+In 2006, Chessell won a Female Inventor of the Year Award for building capacity for innovation.[17]
+Also in 2006, Chessell was awarded a prize for the Best Woman in the Corporate Sector at the Blackberry Women in Technology awards.[18]
+In 2011, Chessell was made an honorary fellow of the Institution of Engineering Designers (IED).[19]
+In 2012, Chessell received Innovator of the Year at the Cisco everywoman in Technology Awards.[20]
+In 2013, Chessell received an Honorary Doctor of Science from Plymouth University.[21]
+In 2015, Chessell received an Honorary Doctorate of Technology from University of Brighton.[22]
+She was appointed Commander of the Order of the British Empire (CBE) in the 2015 New Year Honours for services to engineering.[23][24]
+In 2016, Chessell was named in the Top 50 Influential Women in Engineering List 2016[25] and received an Honorary Doctorate of Technology from University of South Wales[26]
+In 2017, Chessell received an Honorary Doctor of Science from University of Bath.[27]
+Chessell studied Computer Science from an early age and has both an O-Level and an A-Level in the subject. She studied at Plymouth Polytechnic up to 1987[28] and obtained a Bachelors Honours Degree in Computing with Informatics.[29]
+Subsequently, Chessell joined IBM in 1987 at Hursley Park, Winchester where she studied for a master's degree in software engineering at the University of Brighton (completed in 1997). Her studies at Brighton were sponsored by IBM.[29]
