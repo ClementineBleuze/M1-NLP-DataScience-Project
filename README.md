@@ -18,7 +18,7 @@ In this repository, you will find:
 
 ## How to run the code
 ### Install the requirements
-You can install the needed libraries using following command:  
+You can install the needed libraries using following command, when at the root of the project folder:  
 ```pip install -r requirements.txt``` 
 ### Run the Notebooks
-Now, all there is to do left is to run the Notebooks. Enjoy !
+Now, all there is to do left is to run the Notebooks in [**code**](code/). Enjoy !
