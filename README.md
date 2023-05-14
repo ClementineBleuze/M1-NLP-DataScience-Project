@@ -17,6 +17,8 @@ In this repository, you will find:
 - the [report](report.pdf) for the project
 
 ## How to run the code
-# Install the requirements
+### Install the requirements
+You can install the needed libraries using following command:  
 ```pip install -r requirements.txt``` 
-# Start running the Jupyter Notebooks in correct order
+### Run the Notebooks
+Now, all there is to do left is to run the Notebooks. Enjoy !
